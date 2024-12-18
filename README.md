@@ -6,4 +6,6 @@ Bu durumda kaynak_Kod.txt dosyasındaki kodu kopyalayarak yeni bir metin dosyas�
 Böylece kodu siz oluşturduğunuz için güvenlik uygulaması sorun çıkarmaz.
 
 Kullanımı Ajancam ile aldığınız g-code'u dosyasını bat dosyası üzerine sürükleyin, kesme hızını yazarak enter'a basın.
-İşlem sonrası hemen new- ön eki ile yeni bir dosya oluşturulur.
+İşlem sonrası new- ön eki ile yeni bir dosya oluşturulur bu dosya mach3 ile uyumlu olacaktır.
+
+Video link:
